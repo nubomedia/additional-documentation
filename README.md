@@ -33,8 +33,8 @@ is structured by project work packages (WPs), as follows:
 	* [D4.1.1 NUBOMEDIA distributed pipeline middleware v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.1.1-MediaPipelines-R3-V1.0-27-01-15_FINAL-PC.pdf)
 	* [D4.2.1 NUBOMEDIA multisensory and multi-domain media element middleware v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.2.1_Multisensory_R3_V1.0_27_01_2015_FINAL-PC.pdf)
 	* [D4.3.1 Media elements for social and immersive environments v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.3.1_Social-media-elements_R3_V1.0-27-01-15_FINAL-PC.pdf)
-	* [D4.4.1 Video content analysis media element prototypes v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.4.1_Video_Content_Analysis_Cloud_Elements_R3_V1 0_19-01-2015_FINAL-PC.pdf)
-	* [D4.5.1 Augmented reality media element prototypes v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.5.1_AR-media-elements_R3_V 10_2015-01-10_FINAL-PC.pdf)
+	* [D4.4.1 Video content analysis media element prototypes v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.4.1_Video_Content_Analysis_Cloud_Elements_R3_V1.0_19-01-2015_FINAL-PC.pdf)
+	* [D4.5.1 Augmented reality media element prototypes v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.5.1_AR-media-elements_R3_V.10_2015-01-10_FINAL-PC.pdf)
 	* [D4.2 NUBOMEDIA media server and modules v2](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.2_NUBOMEDIA_Media_Server_27-01-2016-FINAL-PC.pdf)
 	* [D4.3 NUBOMEDIA media server and modules v3](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.3_NUBOMEDIA_Media_Server_V3_R9_11-11-2016-FINAL-PC.pdf)
 * WP5: NUBOMEDIA interfaces with application developers
