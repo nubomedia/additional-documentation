@@ -18,7 +18,7 @@ is structured by project work packages (WPs), as follows:
 	* [D2.2.2 State of the art revision document v2](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP2/D2.2.2-State-of-the-art-revision-document-R6-V2-01-02-2016_FINAL-PC.pdf)
 	* [D2.4.2 NUBOMEDIA architecture v2](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP2/D2.4.2_Architecture_R6_V2_26-01-2016_FINAL-PC.pdf)
 	* [D2.2.3 State of the art revision document v3](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP2/D2.2.3-State-of-the-art-revision-document-V3-R9-30-11-2016_FINAL-PC.pdf)
-	* [D2.4.3 NUBOMEDIA architecture v3](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP2/D2.4.3_Architecture_R9_V3_30-11-2016_FINAL-PC.pdf)
+	* [D2.4.3 NUBOMEDIA architecture v3](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP2/D2.4.3_Architecture_R9_V3.1_05-04-2017_FINAL-PC_rev1.pdf)
 * WP3: NUBOMEDIA cloud platform
 	* [D3.1.1 NUBOMEDIA virtual infrastructure v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.1.1_VirtualInfrastructure_R3_V1.0_11-01-2014_FINAL-PC.pdf)
 	* [D3.2.1 NUBOMEDIA cloud repository v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.2.1_CloudRepository_R3_V1.0_27-01-2015-FINAL-PC.pdf)
