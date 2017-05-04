@@ -28,7 +28,7 @@ is structured by project work packages (WPs), as follows:
 	* [D3.6.1 NUBOMEDIA management layer and console v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.6.1_ManagementTools_R3_V1.0_06-01-2015_FINAL-PC.pdf)
 	* [D3.7.1 NUBOMEDIA social monitoring and optimization layer v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.7.1-monitoring-layer_R3_V1.0_23_01_2015_FINAL-PC.pdf)
 	* [D3.2 NUBOMEDIA cloud platform v2](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.2_Cloud_Platform_R6_V1.1_FINAL-PC.pdf)
-	* [D3.3 NUBOMEDIA cloud platform v3](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.3_Cloud_Platform_R9_V1.1-04-05-2015_FINAL-PC_rev1.pdf)
+	* [D3.3 NUBOMEDIA cloud platform v3](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP3/D3.3_Cloud_Platform_R9_V1.1-04-05-2017_FINAL-PC_rev1.pdf)
 * WP4: NUBOMEDIA cloud elements and pipelines
 	* [D4.1.1 NUBOMEDIA distributed pipeline middleware v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.1.1-MediaPipelines-R3-V1.0-27-01-15_FINAL-PC.pdf)
 	* [D4.2.1 NUBOMEDIA multisensory and multi-domain media element middleware v1](https://raw.githubusercontent.com/nubomedia/additional-documentation/master/WP4/D4.2.1_Multisensory_R3_V1.0_27_01_2015_FINAL-PC.pdf)
